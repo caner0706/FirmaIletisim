@@ -2,7 +2,7 @@
 
 ![Uygulama Ana Ekran] (https://github.com/caner0706/FirmaIletisim/blob/Caner/FirmaIletisim.png)
 
-Benim Uygulamam, Flutter kullanarak geliştirilmiş basit bir iletişim bilgileri uygulamasıdır.
+Firma İletişim uygulaması, Flutter kullanarak geliştirilmiş basit bir iletişim bilgileri uygulamasıdır.
 
 ## Açıklama
 
